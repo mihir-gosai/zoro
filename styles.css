@@ -44,6 +44,7 @@
     font-weight:400;
     font-family: sans-serif;
     width: 630px;
+    padding-top: 30px;
     padding-left: 250px;
     line-height: 24px;
 }
@@ -69,26 +70,47 @@
     font-weight:400;
     width: 630px;
     padding-left: 250px;
-    line-height: 24px;
-}
+    padding-top: 30px;
 
-#img1{
-    width: 104.5px;;
-    display:inline-block;
+    line-height: 24px;
     
 }
+.images{
+    font-family: sans-serif;
+    position: absolute;
+    font-size:16px;
+}
+#img1{
+    width: 104.5px;
+    padding-top: 300px;
+    padding-left: 300px;
+}
+
+
 #img2{
+    padding-left: 250px;
+    padding-top: 100px;
     width: 104.5px;;
     display:inline-block;
-    right:0;
+  
 }
 #img3{
+    padding-left: 300px;
+    padding-top: 50px;
     width: 104.5px;;
     display:inline-block;
     
 }
 #img4{
+    padding-left: 340px;
+    padding-top: 50px;
     width: 104.5px;;
     display:inline-block;
     
+}
+#last{
+    padding-left:250px;
+}
+#last2{
+    padding-left:30px;
 }

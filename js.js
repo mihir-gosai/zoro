@@ -10,3 +10,7 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+
+function openAlert() {
+    alert("You pressed the button!");
+}
